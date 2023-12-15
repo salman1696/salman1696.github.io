@@ -398,6 +398,7 @@ kbd {
   background-color: var(--bs-body-color);
   border-radius: 0.25rem;
 }
+
 kbd kbd {
   padding: 0;
   font-size: 1em;
@@ -408,6 +409,7 @@ figure {
 }
 
 img,
+
 svg {
   vertical-align: middle;
 }
